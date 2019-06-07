@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/contact-cards/static/css/main.45bceaf5.chunk.css",
+    "main.js": "/contact-cards/static/js/main.59712069.chunk.js",
+    "main.js.map": "/contact-cards/static/js/main.59712069.chunk.js.map",
+    "runtime~main.js": "/contact-cards/static/js/runtime~main.eb3469bd.js",
+    "runtime~main.js.map": "/contact-cards/static/js/runtime~main.eb3469bd.js.map",
+    "static/js/2.b9b46daa.chunk.js": "/contact-cards/static/js/2.b9b46daa.chunk.js",
+    "static/js/2.b9b46daa.chunk.js.map": "/contact-cards/static/js/2.b9b46daa.chunk.js.map",
+    "index.html": "/contact-cards/index.html",
+    "precache-manifest.be54434e3197078c45ec0959a6aefd72.js": "/contact-cards/precache-manifest.be54434e3197078c45ec0959a6aefd72.js",
+    "service-worker.js": "/contact-cards/service-worker.js",
+    "static/css/main.45bceaf5.chunk.css.map": "/contact-cards/static/css/main.45bceaf5.chunk.css.map"
+  }
+}
